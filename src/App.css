@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(154.48deg, #2A5AF7 4.61%, #AB229B 78.86%);
+}
+
+.ota{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    justify-content: center;
+}
